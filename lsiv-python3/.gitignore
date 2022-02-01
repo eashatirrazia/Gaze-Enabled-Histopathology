@@ -1,0 +1,8 @@
+.vscode/
+.pylintrc
+lsiv_output/*
+output/*
+.idea/
+__pycache__/
+*.pyc
+lsiv_output.zip
